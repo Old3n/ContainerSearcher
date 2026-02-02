@@ -4,8 +4,13 @@ Since the original creator of the mod [ContainerSearcher](https://modrinth.com/m
 ## Download 
 [Download ContainerSearcher v0.3.5 for MC 1.21.11](https://github.com/Old3n/ContainerSearcher/releases/download/0.3.5forMc1.21.11/ContainerSearcher-0.3.5+Updated.for.mc1.21.11.jar)
 ## Installation 
-Requires Fabric and Minecraft 1.21.11 and [ClothConfig](https://modrinth.com/mod/cloth-config) and [FabricApi](https://modrinth.com/mod/fabric-api)\
 just place the jar file in the mods folder
+**Requirements:**
+- Minecraft 1.21.11
+- Fabric Loader
+- [Cloth Config](https://modrinth.com/mod/cloth-config)
+- [Fabric API](https://modrinth.com/mod/fabric-api)
+
 
 # Disclaimer 
 The files will be removed if the creator tells me to remove the files.\
