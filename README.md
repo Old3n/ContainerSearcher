@@ -7,6 +7,6 @@ Since the original creator of the mod [ContainerSearcher](https://modrinth.com/m
 just place the jar file on the mods folder
 
 # Disclaimer 
-The files will be removed if the creator tells me to remove the files .
+The files will be removed if the creator tells me to remove the files.
 If the mod doesnt get updated in the future i may keep updating the mod myself.
 
