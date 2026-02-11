@@ -1,5 +1,5 @@
 # ContainerSearcher
-## Repo is now archived by the author request
+## Repo is now archived by the authors request
 ## This is an unofficial personal update. For official support, please wait for the original creator.
 Since the original creator of the mod [ContainerSearcher](https://modrinth.com/mod/csearcher) hasn'tupdated the mod to 1.21.11 I decided to try and update the mod by myself. I reverse engineered the mod and with some help from AI I updated the mod to 1.21.11.
 ## Download 
